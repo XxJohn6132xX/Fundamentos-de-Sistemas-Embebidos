@@ -1,5 +1,6 @@
 # Fundamentos-de-Sistemas-Embebidos
 Repositorio del código fuente del proyecto Centro Multimedia
+# Autor: Jonathan Jhosua López Castillón
 
 Comando para actualizar S.O:
 1.- apt update && apt upgrade -y
